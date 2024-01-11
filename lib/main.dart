@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_webgl_error/home/home_screen.dart';
+import 'package:flutter_webgl_error/home_screen.dart';
 
 void main() {
   runApp(const MainApp());
